@@ -2482,6 +2482,46 @@
       }
     },
     {
+      "name": "Kitten",
+      "path": "Kitten",
+      "dark": {
+        "mPrimary": "#737373",
+        "mOnPrimary": "#232323",
+        "mSecondary": "#a7a7a7",
+        "mOnSecondary": "#232323",
+        "mTertiary": "#999999",
+        "mOnTertiary": "#232323",
+        "mError": "#dddddd",
+        "mOnError": "#232323",
+        "mSurface": "#232323",
+        "mOnSurface": "#828282",
+        "mSurfaceVariant": "#292929",
+        "mOnSurfaceVariant": "#5d5d5d",
+        "mOutline": "#3c3c3c",
+        "mShadow": "#000000",
+        "mHover": "#999999",
+        "mOnHover": "#232323"
+      },
+      "light": {
+        "mPrimary": "#555555",
+        "mOnPrimary": "#eeeeee",
+        "mSecondary": "#505058",
+        "mOnSecondary": "#eeeeee",
+        "mTertiary": "#333333",
+        "mOnTertiary": "#eeeeee",
+        "mError": "#222222",
+        "mOnError": "#efefef",
+        "mSurface": "#ded9ca",
+        "mOnSurface": "#696969",
+        "mSurfaceVariant": "#d6d0c1",
+        "mOnSurfaceVariant": "#9e9e9e",
+        "mOutline": "#c3c3c3",
+        "mShadow": "#fafafa",
+        "mHover": "#333333",
+        "mOnHover": "#eeeeee"
+      }
+    },
+    {
       "name": "Lilac AMOLED",
       "path": "Lilac AMOLED",
       "dark": {
