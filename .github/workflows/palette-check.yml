@@ -22,6 +22,9 @@ jobs:
           # This job only reads palette JSON; it never executes code from the PR.
           allow-unsafe-pr-checkout: true
 
+      - name: Validate palette layout
+        run: node .github/workflows/validate-layout.js
+
       - name: Automatic Palette Check
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
