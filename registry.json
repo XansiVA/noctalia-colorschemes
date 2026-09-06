@@ -1669,8 +1669,8 @@
         "mOnSecondary": "#D3C6AA",
         "mTertiary": "#333c43",
         "mOnTertiary": "#9DA9A0",
-        "mError": "#E66868",
-        "mOnError": "#9DA9A0",
+        "mError": "#E24B4B",
+        "mOnError": "#BBC4BD",
         "mSurface": "#9DA9A0",
         "mOnSurface": "#232A2E",
         "mSurfaceVariant": "#BEC5B2",
@@ -2197,8 +2197,8 @@
         "mOnSurfaceVariant": "#666666",
         "mOutline": "#BDAE9F",
         "mShadow": "#666666",
-        "mHover": "#F5F5F5",
-        "mOnHover": "#e6e1dc"
+        "mHover": "#FCFCFC",
+        "mOnHover": "#A18578"
       }
     },
     {
@@ -2303,10 +2303,10 @@
         "mOnHover": "#c5c9c5"
       },
       "light": {
-        "mPrimary": "#8a9a7b",
-        "mOnPrimary": "#c5c9c5",
-        "mSecondary": "#8ea4a2",
-        "mOnSecondary": "#c5c9c5",
+        "mPrimary": "#606D54",
+        "mOnPrimary": "#E7E9E7",
+        "mSecondary": "#74908E",
+        "mOnSecondary": "#D2D5D2",
         "mTertiary": "#c4746e",
         "mOnTertiary": "#c5c9c5",
         "mError": "#c4746e",
@@ -2865,8 +2865,8 @@
       "light": {
         "mPrimary": "#8e0cc6",
         "mOnPrimary": "#e8bcfb",
-        "mSecondary": "#ca65f6",
-        "mOnSecondary": "#a70ee8",
+        "mSecondary": "#EBC5FC",
+        "mOnSecondary": "#7C0AAE",
         "mTertiary": "#bcfbe8",
         "mOnTertiary": "#066f50",
         "mError": "#f33971",
@@ -2929,8 +2929,8 @@
         "mOnPrimary": "#062329",
         "mSecondary": "#8cde94",
         "mOnSecondary": "#062329",
-        "mTertiary": "#7ad0c6",
-        "mOnTertiary": "#d1b897",
+        "mTertiary": "#318C81",
+        "mOnTertiary": "#EADFD1",
         "mError": "#ff0000",
         "mOnError": "#062329",
         "mSurface": "#062329",
@@ -3067,7 +3067,7 @@
         "mOnPrimary": "#eceff4",
         "mSecondary": "#b48ead",
         "mOnSecondary": "#eceff4",
-        "mTertiary": "#a3be8c",
+        "mTertiary": "#4E7449",
         "mOnTertiary": "#eceff4",
         "mError": "#bf616a",
         "mOnError": "#eceff4",
@@ -3225,8 +3225,8 @@
       "light": {
         "mPrimary": "#5497A2",
         "mOnPrimary": "#DDDEDF",
-        "mSecondary": "#BAA072",
-        "mOnSecondary": "#DDDEDF",
+        "mSecondary": "#A48551",
+        "mOnSecondary": "#E2E3E4",
         "mTertiary": "#7C9D68",
         "mOnTertiary": "#DDDEDF",
         "mError": "#B4656E",
@@ -3249,8 +3249,8 @@
         "mOnPrimary": "#B8C8C4",
         "mSecondary": "#167A63",
         "mOnSecondary": "#B8C8C4",
-        "mTertiary": "#26A589",
-        "mOnTertiary": "#B8C8C4",
+        "mTertiary": "#166050",
+        "mOnTertiary": "#CED9D6",
         "mError": "#933636",
         "mOnError": "#B8C8C4",
         "mSurface": "#081512",
@@ -3259,8 +3259,8 @@
         "mOnSurfaceVariant": "#99A8A4",
         "mOutline": "#1B6352",
         "mShadow": "#040A09",
-        "mHover": "#26A589",
-        "mOnHover": "#B8C8C4"
+        "mHover": "#1F8972",
+        "mOnHover": "#EEF2F1"
       },
       "light": {
         "mPrimary": "#3B7561",
@@ -3424,10 +3424,10 @@
       },
       "light": {
         "mPrimary": "#6DB09A",
-        "mOnPrimary": "#E5EDF0",
-        "mSecondary": "#EABCAE",
+        "mOnPrimary": "#F2F6F8",
+        "mSecondary": "#DB8770",
         "mOnSecondary": "#E5EDF0",
-        "mTertiary": "#E0A990",
+        "mTertiary": "#CB7248",
         "mOnTertiary": "#E5EDF0",
         "mError": "#7FAFC7",
         "mOnError": "#E5EDF0",
@@ -3587,7 +3587,7 @@
         "mOnPrimary": "#ffffff",
         "mSecondary": "#ff99b8",
         "mOnSecondary": "#ffffff",
-        "mTertiary": "#ffb3cc",
+        "mTertiary": "#FF528B",
         "mOnTertiary": "#ffffff",
         "mError": "#ff99b8",
         "mOnError": "#ffffff",
@@ -3597,7 +3597,7 @@
         "mOnSurfaceVariant": "#e57399",
         "mOutline": "#b38099",
         "mShadow": "#f0d0e0",
-        "mHover": "#ffb3cc",
+        "mHover": "#FF6699",
         "mOnHover": "#ffffff"
       }
     },
@@ -3762,8 +3762,8 @@
       }
     },
     {
-      "name": "spiderman",
-      "path": "spiderman",
+      "name": "Spiderman",
+      "path": "Spiderman",
       "dark": {
         "mPrimary": "#F5453F",
         "mOnPrimary": "#0A1E42",
@@ -4026,7 +4026,7 @@
         "mPrimary": "#2C363C",
         "mOnPrimary": "#F0EDEC",
         "mSecondary": "#CFC1BA",
-        "mOnSecondary": "#F0EDEC",
+        "mOnSecondary": "##B5A099",
         "mTertiary": "#9F948F",
         "mOnTertiary": "#F0EDEC",
         "mError": "#A8334C",
@@ -4034,7 +4034,7 @@
         "mSurface": "#F0EDEC",
         "mOnSurface": "#2C363C",
         "mSurfaceVariant": "#CFC1BA",
-        "mOnSurfaceVariant": "#CFC1BA",
+        "mOnSurfaceVariant": "#6B6B6B",
         "mOutline": "#CFC1BA",
         "mShadow": "#F0EDEC",
         "mHover": "#9F948F",
