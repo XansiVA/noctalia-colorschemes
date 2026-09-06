@@ -1322,6 +1322,46 @@
       }
     },
     {
+      "name": "Coral and Sea",
+      "path": "Coral and Sea",
+      "dark": {
+        "mPrimary": "#d1704f",
+        "mOnPrimary": "#241a15",
+        "mSecondary": "#0e639c",
+        "mOnSecondary": "#ffffff",
+        "mTertiary": "#c586c0",
+        "mOnTertiary": "#1e1e1e",
+        "mError": "#f44747",
+        "mOnError": "#1e1e1e",
+        "mSurface": "#1e1e1e",
+        "mOnSurface": "#d4d4d4",
+        "mSurfaceVariant": "#2d2d2d",
+        "mOnSurfaceVariant": "#969696",
+        "mOutline": "#3c3c3c",
+        "mShadow": "#000000",
+        "mHover": "#2a2d2e",
+        "mOnHover": "#d4d4d4"
+      },
+      "light": {
+        "mPrimary": "#d1704f",
+        "mOnPrimary": "#241a15",
+        "mSecondary": "#0e639c",
+        "mOnSecondary": "#ffffff",
+        "mTertiary": "#c586c0",
+        "mOnTertiary": "#1e1e1e",
+        "mError": "#cd3131",
+        "mOnError": "#ffffff",
+        "mSurface": "#ffffff",
+        "mOnSurface": "#333333",
+        "mSurfaceVariant": "#f3f3f3",
+        "mOnSurfaceVariant": "#616161",
+        "mOutline": "#d4d4d4",
+        "mShadow": "#000000",
+        "mHover": "#e8e8e8",
+        "mOnHover": "#333333"
+      }
+    },
+    {
       "name": "Cream",
       "path": "Cream",
       "dark": {
