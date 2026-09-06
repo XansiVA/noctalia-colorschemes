@@ -15,8 +15,9 @@ This repo is the **community** palette source. Merged palettes are served from
 
 ## Layout
 
-One directory per palette. The **directory name is the palette name** users see, so spaces are fine
-(`Rose Pine Moon/`). Inside it goes a single JSON file, conventionally named after the directory:
+One directory per palette. The **directory name is the palette name** users see, so it must begin with an uppercase
+letter; spaces are fine (`Rose Pine Moon/`). Each directory must contain exactly one JSON file named exactly after it,
+including case:
 
 ```
 Rose Pine Moon/
